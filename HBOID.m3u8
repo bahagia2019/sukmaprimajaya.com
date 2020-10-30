@@ -7,5 +7,3 @@
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="eng",DEFAULT=NO,AUTOSELECT=NO,LANGUAGE="eng",URI="https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=1964424,AVERAGE-BANDWIDTH=150000,CODECS="avc1.64001f,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=416x234,AUDIO="audiod",SUBTITLES="subs"
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=687256,AVERAGE-BANDWIDTH=687256,CODECS="avc1.64001f,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=480x270,AUDIO="audiod",SUBTITLES="subs"
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/2.m3u8
