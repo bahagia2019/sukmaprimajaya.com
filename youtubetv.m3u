@@ -1,5 +1,7 @@
-#EXTINF:-1 tvg-id="" group-title="youtubetv",Tawa Bikini Bottom | Nickelodeon Bahasa
-https://www.youtube.com/embed/XFXwguzvsnk?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:-1 tvg-id="" group-title="youtubetv",SuleChannel
+//www.youtube.com/embed/UxvkLMkuuXc?autoplay=1&list=PLUdFlgVL0JSxMGooVj0UcfqUXfIRYrVHk&allowfullscreen=allowfullscreen
+#EXTINF:-1 tvg-id="" group-title="youtubetv",SuleChannel2
+https://www.youtube.com/embed/UxvkLMkuuXc?autoplay=1&list=PLUdFlgVL0JSxMGooVj0UcfqUXfIRYrVHk&allowfullscreen=1
 #EXTINF:-1 tvg-id="" group-title="youtubetv",LARVA TV1
 https://www.youtube.com/embed/_XaTSTPou2A?autoplay=1&rel=0&fs=0&controls=0
 #EXTINF:-1 tvg-id="" group-title="youtubetv)",LIVE STREAM Masha and the Bear
@@ -26,3 +28,5 @@ https://www.youtube.com/embed/UnC1v7ChpwY?autoplay=1&rel=0&fs=0&controls=0
 https://www.youtube.com/embed/oSrP2_jQ3Ns?autoplay=1&rel=0&fs=0&controls=0
 #EXTINF:-1 tvg-id="" group-title="youtubetv",kixhd
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" group-title="youtubetv",Best Music Mix • 24/7 Live Stream
+https://www.youtube.com/embed/sbShHG7VGnE?autoplay=1&rel=0&fs=0&controls=0
