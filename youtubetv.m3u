@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://riyancoday.xyz/coday.jpg" group-title="YOUTUBE LIVE", LIVE DANGDUT KOPLO 24 JAM
+https://www.youtube.com/embed/pYl41Xfatvw?autoplay=1&rel=0&fs=0&controls=0
 #EXTINF:-1 tvg-id="" group-title="YOUTUBE LIVE",NETTV LIVE 2020
 https://www.youtube.com/embed/MSQhwpYQbtQ?autoplay=1&rel=0&fs=0&controls=0
 #EXTINF:-1 tvg-id="" group-title="YOUTUBE LIVE",SuleChannel
@@ -191,35 +193,6 @@ http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda
 http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=68897683afbfe2581262317cba55352b109ac3041ec25ad69ff136c043aa0512
 #EXTINF:-1 tvg-logo="http://www.useetv.com/assets/images/channel/logo_daaitv_small1.png?id=8" group-title="LOCAL" tvg-id="Riyan.3328bdf9a4b9504b9398284244fe97c2.Coday" tvg-name"Daai TV (USEETV)",Daai TV (USEETV)
 http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=896b0fbfbabb563e7a17b77846bb4c35109ac3041ec25ad69ff136c043aa0512
-
-// YT CODAY
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/coday.jpg" group-title="YOUTUBE LIVE", LIVE DANGDUT KOPLO 24 JAM
-https://www.youtube.com/embed/pYl41Xfatvw?autoplay=1&rel=0&fs=0&controls=0
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="YOUTUBE LIVE", tvOne Live Streaming 24 Jam
-http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=2815529715596fd71b2914908f6ce2fd&cdy=6e89d6b37c5e278b1d57a3d202a625686350bda99c2c71d65b97e0c7973b30ed
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/coday.jpg" group-title="YOUTUBE LIVE", beIN SPORTS HD
-http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=2815529715596fd71b2914908f6ce2fd&cdy=fca196508a7c91901c15240daceff2f86350bda99c2c71d65b97e0c7973b30ed
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/coday.jpg" group-title="YOUTUBE LIVE", ABC Song | Johny Johny Yes Papa | Baby Shark | Bath Song | Cartoon | Nursery Rhymes & Kids Song
-http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=2815529715596fd71b2914908f6ce2fd&cdy=f5bbbaf13ec2caa61872c0b8d3d052cf6350bda99c2c71d65b97e0c7973b30ed
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/coday.jpg" group-title="YOUTUBE LIVE", Live! Happy Birthday Mickey Mouse | Mickey Mornings | Disney Junior
-http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=2815529715596fd71b2914908f6ce2fd&cdy=52fe997dac2c6ab5c48cb7370800dcfc6350bda99c2c71d65b97e0c7973b30ed
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/coday.jpg" group-title="YOUTUBE LIVE", Lagu Indonesia Terbaik - Terpopuler - Terhits Sepanjang Masa #MusicStream #LiveMusic #DirumahAja
-http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=2815529715596fd71b2914908f6ce2fd&cdy=280bb8d49da8bf19556ab012a6194c396350bda99c2c71d65b97e0c7973b30ed
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/coday.jpg" group-title="YOUTUBE LIVE", 🔴 Tawa Bikini Bottom | Nickelodeon Bahasa
-http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=2815529715596fd71b2914908f6ce2fd&cdy=8529d12598ecdf0fa17bf6a65c4511a36350bda99c2c71d65b97e0c7973b30ed
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="YOUTUBE LIVE", NETTV LIVE 2020
-http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=2815529715596fd71b2914908f6ce2fd&cdy=6b6475e96bae2afefc2a007220da1b946350bda99c2c71d65b97e0c7973b30ed
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/talkingtom.png?id=8.8.8.8" group-title="YOUTUBE LIVE", 🔴 NEW! Talking Tom Heroes Episodes - LIVE NOW!
-http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=2815529715596fd71b2914908f6ce2fd&cdy=12d3348b5c82e80bb0b9692e068cca6b6350bda99c2c71d65b97e0c7973b30ed
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/chuchu.png?id=8.8.8.8" group-title="YOUTUBE LIVE", CODAY WAS HERE!
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/babybus.png?id=8.8.8.8" group-title="YOUTUBE LIVE", Cerita & Lagu Anak-anak | Lagu Anak Balita | BabyBus Bahasa Indonesia
-http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=2815529715596fd71b2914908f6ce2fd&cdy=d2d23f5d0280d49db7812e25e9fef5a66350bda99c2c71d65b97e0c7973b30ed
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/pinkfong.png?id=8.8.8.8" group-title="YOUTUBE LIVE", CODAY WAS HERE!
-#EXTINF:-1 tvg-logo="http://riyancoday.xyz/images/didi.png?id=8.8.8.8" group-title="YOUTUBE LIVE", 24 Jam Live Lagu Anak Indonesia | Didi & Friends Indonesia
-http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=2815529715596fd71b2914908f6ce2fd&cdy=5437a725f8019315529aa2bce263462a6350bda99c2c71d65b97e0c7973b30ed
-#EXTINF:-1 tvg-logo="https://izzah.tv/wp-content/uploads/2020/08/IZZAH-TV-1-e1597848734741.png" group-title="RELIGIOUS",IZZAH TV (RANDOM)
-https://streaming.sigraduta.co.id/izzahtv.m3u8
-
 // HBO ID CODAY
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="HBO GO",ID:HBO SD 
 http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764da6ec8e27dae9e49e89bf41100dcc85c0a
@@ -233,7 +206,6 @@ http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed
 http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122c6ec8e27dae9e49e89bf41100dcc85c0a
 #EXTINF:-1  tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png" group-title="HBO GO",ID:Red By HBO SD 
 http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=e4da3b7fbbce2345d7772b0674a318d56ec8e27dae9e49e89bf41100dcc85c0a
-
 // HBO FULL CODAY
 #EXTINF:-1 tvg-logo="https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4fe0c0b0-bf97-491b-8c8d-34482aa4f613.png" group-title="HBO GO",HBO 
 http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764da8b5ca9f11393f1d8534f169bcf0d18b1
