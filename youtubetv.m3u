@@ -1,3 +1,5 @@
+#EXTINF:-1 tvg-id="" group-title="youtubetv",mnc
+https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd&drm=widevine&license=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
 #EXTINF:-1 tvg-id="" group-title="youtubetv",LARVA TV1
 https://www.youtube.com/embed/_XaTSTPou2A?vq=hd1080&autoplay=1&rel=0&fs=0&controls=0
 #EXTINF:-1 tvg-id="" group-title="youtubetv)",LIVE STREAM Masha and the Bear
@@ -12,3 +14,5 @@ https://www.youtube.com/watch?v=WiZyb7i2CFc
 https://m.youtube.com/watch?v=_XaTSTPou2A?autoplay=1
 #EXTINF:-1 tvg-id="" group-title="youtubetv",iNews Live Streaming 24/7
 https://www.youtube.com/embed/WWPlm5_nUxE?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:-1 tvg-id="" group-title="youtubetv",kooo
+https://bitmovin.com/demos/stream-test?format=dash&manifest=https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd&drm=widevine&license=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
