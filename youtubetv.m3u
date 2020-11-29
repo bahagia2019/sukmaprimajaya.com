@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-id="" group-title="youtubetv",LARVA TV
-https://m.youtube.com/embed/_XaTSTPou2A?vq=hd1080&autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:-1 tvg-id="" group-title="youtubetv",LARVA TV1
+https://www.youtube.com/embed/_XaTSTPou2A?vq=hd1080&autoplay=1&rel=0&fs=0&controls=0
 #EXTINF:-1 tvg-id="" group-title="youtubetv)",LIVE STREAM Masha and the Bear
 https://www.youtube.com/watch?v=KsFbwWJsvuo
 #EXTINF:-1 tvg-id="" group-title="youtubetv",ChuChu TV Nursery Rhymes & Kids Songs
@@ -10,3 +10,5 @@ https://www.youtube.com/watch?v=Ge87Aej6YZI
 https://www.youtube.com/watch?v=WiZyb7i2CFc
 #EXTINF:-1 tvg-id="" group-title="youtubetv",koz
 https://m.youtube.com/watch?v=_XaTSTPou2A?autoplay=1
+#EXTINF:-1 tvg-id="" group-title="youtubetv",koz2
+https://m.youtube.com/watch?v=_XaTSTPou2A?vq=hd1080&autoplay=1&rel=0&fs=0&controls=0
