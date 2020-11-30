@@ -1,7 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0fTIhO2m.jpg?1" group-title="YOUTUBE LIVE",HBO SERVERKOZ
+https://seomuda.net/iptv/2020HBOID.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="http://riyancoday.xyz/coday.jpg" group-title="YOUTUBE LIVE", LIVE DANGDUT KOPLO 24 JAM
 https://www.youtube.com/embed/pYl41Xfatvw?autoplay=1&rel=0&fs=0&controls=0
-#EXTINF:-1 tvg-id="" group-title="YOUTUBE LIVE",NETTV LIVE 2020
+#EXTINF:-1 tvg-logo="https://danishbits.org/static/bitbucket/users/1510242396.5205.png" tvg-id="" group-title="YOUTUBE LIVE",NETTV LIVE 2020
 https://www.youtube.com/embed/MSQhwpYQbtQ?autoplay=1&rel=0&fs=0&controls=0
 #EXTINF:-1 tvg-id="" group-title="YOUTUBE LIVE",SuleChannel
 https://www.youtube.com/embed/UxvkLMkuuXc?autoplay=1&list=PLUdFlgVL0JSxMGooVj0UcfqUXfIRYrVHk
@@ -9,7 +11,7 @@ https://www.youtube.com/embed/UxvkLMkuuXc?autoplay=1&list=PLUdFlgVL0JSxMGooVj0Uc
 https://www.youtube.com/embed/AmV9y7eul2k?autoplay=1&rel=0&fs=0&controls=0
 #EXTINF:-1 tvg-id="" group-title="YOUTUBE LIVE",LARVA TV1
 https://www.youtube.com/embed/_XaTSTPou2A?autoplay=1&rel=0&fs=0&controls=0
-#EXTINF:-1 tvg-id="" group-title="youtubetv)",LIVE STREAM Masha and the Bear
+#EXTINF:-1 tvg-id="" group-title="YOUTUBE LIVE",LIVE STREAM Masha and the Bear
 https://www.youtube.com/embed/KsFbwWJsvuo?autoplay=1&rel=0&fs=0&controls=0
 #EXTINF:-1 tvg-id="" group-title="YOUTUBE LIVE",ChuChu TV Nursery Rhymes & Kids Songs
 https://www.youtube.com/embed/sJ9lRUi2uis?autoplay=1&rel=0&fs=0&controls=0
