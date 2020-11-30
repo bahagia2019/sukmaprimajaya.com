@@ -1,0 +1,869 @@
+#EXTM3U
+#EXTINF:0,HBO SERVERKOZ
+#EXTVLCOPT:network-caching=1000
+https://seomuda.net/iptv/2020HBOID.m3u8
+#EXTINF:30,EgaTama - index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606793083/ei/G2PFX_P1BtzO4-EP5Ky5-AI/ip/202.80.212.88/id/mMOMBK8Y2Z8.1/source/yt_live_broadcast/requiressl/yes/tx/23933792/txs/23933789%2C23933790%2C23933791%2C23933792/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGpDiehnj2zAVRsUoCkEhoO5vToxmnueGQSfFPEpPT48CIQDPy2Gt_aQyLpaaBRMroNf2evUoF0DTDbEYGA0Pc7WBAQ%3D%3D/file/index.m3u8
+#EXTINF:30,NetInsight - index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606793097/ei/KWPFX5yDOvPl4-EPtdejuAE/ip/202.80.212.88/id/MSQhwpYQbtQ.9/source/yt_live_broadcast/requiressl/yes/tx/23933792/txs/23933789%2C23933790%2C23933791%2C23933792/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWRnfWFRsMZh3ozHQ8nxt5eLf7YLzhSR1odLoF71w7kwCICu3A47ZsHOiS7uH77c5aE7wSTIsYG1NznCDqKCZBhcC/file/index.m3u8
+#EXTINF:0,SuleChannel
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/UxvkLMkuuXc?autoplay=1&list=PLUdFlgVL0JSxMGooVj0UcfqUXfIRYrVHk
+#EXTINF:0,Hindi Party Mixes
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/AmV9y7eul2k?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:0,LARVA TV1
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/_XaTSTPou2A?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:0,LIVE STREAM Masha and the Bear
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/KsFbwWJsvuo?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:0,ChuChu TV Nursery Rhymes & Kids Songs
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/sJ9lRUi2uis?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:0,BabyBus Bahasa Indonesia
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/Ge87Aej6YZI?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:0,Makkah Live
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/WiZyb7i2CFc?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:0,PinkyPopTOY
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/h_X9J1zLKvk?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:0,iNews Live Streaming 24/7
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/WWPlm5_nUxE?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:0,KOMPASTV
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/sJ91AeLxrVw?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:0,LIVE DJ BREAKBEAT 2020 LAGU INDONESIA
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/RbmgHSnC7AM?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:0,World Championship GRAND FINAL - Clash of Clans
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/UnC1v7ChpwY?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:0,Top 50 SHAZAM
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/oSrP2_jQ3Ns?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:0,kixhd
+#EXTVLCOPT:network-caching=1000
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:0,Best Music Mix • 24/7 Live Stream
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/sbShHG7VGnE?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:0,4K 🔴 Calm Sea and Relaxing Sound of Waves
+#EXTVLCOPT:network-caching=1000
+https://www.youtube.com/embed/jZkOR1LF-9I?autoplay=1&rel=0&fs=0&controls=0
+#EXTINF:0,FOX MOVIES [CODAY]
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?coday=p2WerzWcqaWzs&shinta=CantiK
+#EXTINF:0,RCTI (VKOZ)
+#EXTVLCOPT:network-caching=1000
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/index.m3u8
+#EXTINF:0,RCTI (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=84117275be999ff55a987b9381e01f96d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Indosiar (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,MNC (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=22fb0cee7e1f3bde58293de743871417d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,GTV (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=e07413354875be01a996dc560274708ed7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,SCTV (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Ochannel (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=7eabe3a1649ffa2b3ff8c02ebfd5659fd7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Kompas TV (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,BeritaSatu (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bbd7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Metro TV (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,NET TV (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,TRANS TV (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,AJWA TV (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,TVRI (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Trans7 (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Jaktv (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6dd7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,RTV (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69ad7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,iNews (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=e17a886efc21fa45b9dc49a17c29dcf1d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,OShop (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0, (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2bed7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,DAAI TV (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Nusantara TV (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0, (VIDIO)
+#EXTVLCOPT:network-caching=1000
+https://app-etslive-2.vidio.com/live/geo_7524/master.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJkYXRhIjp7ImxpdmVzdHJlYW1pbmdfaWQiOjc1MjQsInBsYXlsaXN0X3VybCI6Imh0dHBzOi8vYXBwLWV0c2xpdmUtMi52aWRpby5jb20vbGl2ZS9nZW9fNzUyNC9tYXN0ZXIubTN1OCIsImV4cGlyZV9pbiI6MTQ0MDB9LCJleHAiOjE2MDY2NjQxMDMsImlzcyI6Ind3dy52aWRpby5jb20ifQ.mSHs6TzeA1_r3oQcw_eiKiWbIVbKa6xgBsNByVIDs0954sbMMjQIy6NSe6y1sQNjtchRhs849MgFAIbYPXyAzsKT5yZ5CIVJDOAfLq0Z73Tq0H7bgaUihKvxZI5Agzlg8cPljWj_HqUeE4UYXHdp63ya_7jrbPfWkJH_5Kx3oI8zh49_F4GtVPH05UIWtAp5w-sd7GG4o0-7NkNUKY1P0wKBXrjxZRQlCFKDTTmBRK-sVlChh1SEoJP_HebNqS64ytWv7pGjzrL7BYu6t8LEibqibJBe-CihUAQp6elD9Cy12vRWfZvP-yNYegtUriwTz7Nxj8pJX1vPCKl4WUVPAg&trace_id=1606663323982464564
+#EXTINF:0,Champions TV 3 (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=af4f00ca48321fb026865c5a1772dafdd7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Vidio Entertainment (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=ab73f542b6d60c4de151800b8abc0a6cd7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,TVN (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=7f687767ccf20fcea1c9dc4a5adc2326d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Zee Bioskop (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=985e9a46e10005356bbaf194249f6856d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Mola TV Free (VIDIO)
+#EXTVLCOPT:network-caching=1000
+https://cdn-mola-primary-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/08.m3u8?hdnts=st=1606663025~exp=1606663145~acl=/i/*~hmac=84ef4b091c00b3fa145c377701da0f1bc4c2e2ab5402ca521d65ef9039fdfc28
+#EXTINF:0,Citra Bioskop (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=55479c55ebd1efd3ff125f1337100388d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Citra Drama (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=012d9fe15b2493f21902cd55603382ecd7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Citra Dangdut (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=2e2c4bf7ceaa4712a72dd5ee136dc9a8d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,ZING (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=ef452c63f81d0105dd4486f775adec81d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Citra Entertainment (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=72c25197b6a491816d9a84b42d7205f0d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Aljazeera (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=713fd63d76c8a57b16fc433fb4ae718ad7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Euro News (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=cdf66a6a7a04d87d865335701790c3e3d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,DW English (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=23685a2431acad7789c1e3d43ea1522cd7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,ABC Australia (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=c20bb2d9a50d5ac1f713f8b34d9aac5ad7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Hip Hip Horee! (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=0428be7495f8f382d0943cdd4738ffbbd7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Zoomoo (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=90fd26a243f6d14c4b3df082cdc8da66d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Da Vinci (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=6828f61cee49c7a4da0f9c1d3e03b857d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Horee (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=5e62d03aec0d17facfc5355dd90d441cd7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Smithsonian (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=034e2db715b4e796a5e72861ce06963ad7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Love Nature (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=0b94ce08688c6389ce7b68c52ce3f8c7d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,TV Edukasi (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dced7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,//RELIGI
+#EXTVLCOPT:network-caching=1000
+https://RELIGI
+#EXTINF:0,Citra Muslim (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=c4f8a2db7f8704b0bdaa266d61ef48c3d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Al Quran Al Kareem TV (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76ad7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,Reformed 21 TV (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=f26ecc6e3bc7f5e9c8cf23a7c7a315ddd7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,U-Channel TV (VIDIO)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=f846bc691110108f73cb55c2f4049864&cdy=76383b34503afb0508f8364787c55800d7d0b008c6972404cfbeadc511a3391a
+#EXTINF:0,//LOCAL
+#EXTVLCOPT:network-caching=1000
+https://LOCAL
+#EXTINF:0,Trans7 (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=8958551386d9326cfaab8bc165346bfb109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,TransTV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=3cbcacce0280033198f2da98a2b4e753109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,Indosiar (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=000e4be121ffecc35dac4fbafc901553109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,SCTV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=70b442faf7651ffb07f62cf81fb677b2109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,Net. (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=40fa73c9d0083043c6576dd2b40511e4109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,Ruang Trampil (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=8453fa3ef4db49e13abe102f8b39d02b109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,Usee Photo (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=8801872ee9664fceb4e99cc2f64b07e7109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,UseePrime (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=07d8850a87de23b1d542d2c09be94757109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,Insert (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=e0df5f3dfd2650ae5be9993434e2b2c0109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,TVRI (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=1103c2eae40993564620d0326beedffc109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,JITV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=17014f712db2cb45f1f2ca703c0fa6ea109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,Kompas TV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=af27b0f197147cee7d7b34b47d6555ac109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,Nusantara TV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=771b3ccaa7dc87a12587bc1e6c11d306109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,Rajawali TV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=9fe7c84b8253e88099d47237e0b7367c109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,RRI NET (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=a2037d2d5e3207423a3557aeb728e9b8109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,Antara (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=cff1f0f0eff214cf9011d2e73d6e0b40109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,Bali TV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=e01949dd5646cf5a41b524ac1dbe6106109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,Berita Satu (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=af8fd35b1a19061999dd20dfdbbfa87c109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,JakTV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=eba3382a1ed6c79d282bee877788a572109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,JTV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=c61ed732b4f9bafe14de9fe1e6eba245109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,MyTV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=90ecf35382a7597e553200692c3fc384109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,TV Edukasi (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=68897683afbfe2581262317cba55352b109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,Daai TV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=ffd67d44870fda644560c47682a87a73&cdy=896b0fbfbabb563e7a17b77846bb4c35109ac3041ec25ad69ff136c043aa0512
+#EXTINF:0,ID:HBO SD 
+#EXTVLCOPT:network-caching=1000
+http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764da6ec8e27dae9e49e89bf41100dcc85c0a
+#EXTINF:0,ID:HBO Signature SD 
+#EXTVLCOPT:network-caching=1000
+http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c4ca4238a0b923820dcc509a6f75849b6ec8e27dae9e49e89bf41100dcc85c0a
+#EXTINF:0,ID:HBO Hits SD 
+#EXTVLCOPT:network-caching=1000
+http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862c6ec8e27dae9e49e89bf41100dcc85c0a
+#EXTINF:0,ID:HBO Family SD 
+#EXTVLCOPT:network-caching=1000
+http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=eccbc87e4b5ce2fe28308fd9f2a7baf36ec8e27dae9e49e89bf41100dcc85c0a
+#EXTINF:0,ID:Cinemax SD 
+#EXTVLCOPT:network-caching=1000
+http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122c6ec8e27dae9e49e89bf41100dcc85c0a
+#EXTINF:0,ID:Red By HBO SD 
+#EXTVLCOPT:network-caching=1000
+http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=e4da3b7fbbce2345d7772b0674a318d56ec8e27dae9e49e89bf41100dcc85c0a
+#EXTINF:0,HBO 
+#EXTVLCOPT:network-caching=1000
+http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=cfcd208495d565ef66e7dff9f98764da8b5ca9f11393f1d8534f169bcf0d18b1
+#EXTINF:0,HBO Signature 
+#EXTVLCOPT:network-caching=1000
+http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c4ca4238a0b923820dcc509a6f75849b8b5ca9f11393f1d8534f169bcf0d18b1
+#EXTINF:0,HBO Hits 
+#EXTVLCOPT:network-caching=1000
+http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=c81e728d9d4c2f636f067f89cc14862c8b5ca9f11393f1d8534f169bcf0d18b1
+#EXTINF:0,HBO Family 
+#EXTVLCOPT:network-caching=1000
+http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=eccbc87e4b5ce2fe28308fd9f2a7baf38b5ca9f11393f1d8534f169bcf0d18b1
+#EXTINF:0,Cinemax 
+#EXTVLCOPT:network-caching=1000
+http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=a87ff679a2f3e71d9181a67b7542122c8b5ca9f11393f1d8534f169bcf0d18b1
+#EXTINF:0,Red By HBO 
+#EXTVLCOPT:network-caching=1000
+http://www.riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=6c7085a9ed944c97b3346aae7bf73057&cdy=e4da3b7fbbce2345d7772b0674a318d58b5ca9f11393f1d8534f169bcf0d18b1
+#EXTINF:0,[CODAY] Drama Sangat 
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=1895eda7cc86aa8524b6736bebad630beffe3b44f937c98cc6dd24dc71dbf422&coday=0f6a8bda1a3e2ddbb09c18f9e7622161
+#EXTINF:0,[CODAY] TV9 
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=f031684a91618663edc26637eb11563ceffe3b44f937c98cc6dd24dc71dbf422&coday=0f6a8bda1a3e2ddbb09c18f9e7622161
+#EXTINF:0,[CODAY] TV8 
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=579470b59158da9ed1d6684c905f684ceffe3b44f937c98cc6dd24dc71dbf422&coday=0f6a8bda1a3e2ddbb09c18f9e7622161
+#EXTINF:0,[CODAY] VNTV7 
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=4794fc96f4b6f9487c244baa337c62ebeffe3b44f937c98cc6dd24dc71dbf422&coday=0f6a8bda1a3e2ddbb09c18f9e7622161
+#EXTINF:0,[CODAY TV] OXYGEN.ID
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=LzgfqUWuM2x=&
+#EXTINF:0,[CODAY TV] NET TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=LKWaM2x=&
+#EXTINF:0,[CODAY TV] METRO TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=raWaMJWanD==&
+#EXTINF:0,[CODAY TV] TVRI NASIONAL
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=M2yyqt==&
+#EXTINF:0,[CODAY TV] SCTV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=MaOanD==&
+#EXTINF:0,[CODAY TV] TRANS 7
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=M2IhLJL3&
+#EXTINF:0,[CODAY TV] TRANS TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=M2IhLJManD==&
+#EXTINF:0,[CODAY TV] INDOSIAR
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=qzSkLzM2ozH=&
+#EXTINF:0,[CODAY TV] ANTV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=ozSanD==&
+#EXTINF:0,[CODAY TV] TV ONE
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=M2yvLKV=&
+#EXTINF:0,[CODAY TV] JAK TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=q254M2x=&
+#EXTINF:0,[CODAY TV] MATRIX TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=rz5aMKMeM2x=&
+#EXTINF:0,[CODAY TV] DAAI INDONESIA
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=pJ5hqzqc&
+#EXTINF:0,[CODAY TV] LEJEL HS
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=rKW3pay1Mt==&
+#EXTINF:0,[CODAY TV] NUSANTARA TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=LJuzozSaozIhM2x=&
+#EXTINF:0,[CODAY TV] BN TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=o2RgM2x=&
+#EXTINF:0,[CODAY TV] RRI NET
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=MJI2YJSlMj==&
+#EXTINF:0,[CODAY TV] PERSIJA TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=&
+#EXTINF:0,[CODAY TV] KOMPAS TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=rTW6L25zM2x=&
+#EXTINF:0,[CODAY TV] RTV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=MJqc&
+#EXTINF:0,[CODAY TV] O CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=LaO1ozSupax=&
+#EXTINF:0,[CODAY TV] MAGNA TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=rz50LJ5anD==&
+#EXTINF:0,[CODAY TV] NHK WORLD (HD)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=LKI4nzWyrKR=&
+#EXTINF:0,[CODAY TV] PHOENIX HK
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=L3IvpzS2n3IvLKE4LzS0&
+#EXTINF:0,[CODAY TV] DW TV ASIA
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=pJclLKE5qzM1&
+#EXTINF:0,[CODAY TV] FRANCE 24
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=p2IhLKOlZwD=&
+#EXTINF:0,[CODAY TV] ARIRANG WORLD
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=ozI2MJ5uqTcvMKyk&
+#EXTINF:0,[CODAY TV] CCTV 4
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=pUOanGEhMaMh&
+#EXTINF:0,[CODAY TV] VOA
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=nJWh&
+#EXTINF:0,[CODAY TV] RAI ITALIA
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=MJ52qzqhrKMh&
+#EXTINF:0,[CODAY TV] CETV 1
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=pUWanGR=&
+#EXTINF:0,[CODAY TV] TVE ASIA
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=M2ylozM2ot==&
+#EXTINF:0,[CODAY TV] TV5 MONDE
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=M2x1rzWupKV=&
+#EXTINF:0,[CODAY TV] NIHON TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=LKM1LzSanD==&
+#EXTINF:0,[CODAY TV] CGTN DOCUMENTARY
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=pUEaLKSvpTu6pzSaozIf&
+#EXTINF:0,[CODAY TV] SALAM TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=Mz55oacanD==&
+#EXTINF:0,[CODAY TV] RODJA TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=MJWkq25anD==&
+#EXTINF:0,[CODAY TV] U CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=nUO1ozSupax=&
+#EXTINF:0,[CODAY TV] QURaN TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=MTuyozSanD==&
+#EXTINF:0,[CODAY TV] TAWAF TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=M25doaAanD==&
+#EXTINF:0,[CODAY TV] BERITA SATU
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=o3WyqzqhMz5anN==&
+#EXTINF:0,[CODAY TV] iNews TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=qzSlnzL=&
+#EXTINF:0,[CODAY TV] CNBC INDONESIA
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=pTSipUMupJWupzM2ot==&
+#EXTINF:0,[CODAY TV] AL JAZEERA
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=oay3oz1lpzIh&
+#EXTINF:0,[CODAY TV] TRT WORLD
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=M2IanzWyrKR=&
+#EXTINF:0,[CODAY TV] PHOENIX CHINESE
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=L3IvpzS2n3O1qzSlMaV=&
+#EXTINF:0,[CODAY TV] CHANNEL NEWS ASIA
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=pUIhLJSlrJSlnzMhMaMh&
+#EXTINF:0,[CODAY TV] RUSSIA TODAY (HD)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=MJuzMaMhM2Wkozj=&
+#EXTINF:0,[CODAY TV] PHOENIX INFO NEWS (HD)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=L3IvpzS2n2SlnzL=&
+#EXTINF:0,[CODAY TV] EURONEWS
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=pzuyLzSlnzMhMaMh&
+#EXTINF:0,[CODAY TV] CGTN
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=pUEaLD==&
+#EXTINF:0,[CODAY TV] TVB NEWS
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=M2yiLKWdMt==&
+#EXTINF:0,[CODAY TV] BLOOMBERG
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=o3yvLacipzI0&
+#EXTINF:0,[CODAY TV] CNBC
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=pTSipN==&
+#EXTINF:0,[CODAY TV] ATV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=&
+#EXTINF:0,[CODAY TV] MCINE
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=&
+#EXTINF:0,[CODAY TV] SINEMA INDONESIA
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=MaMupachqzSkLzSlMaMh&
+#EXTINF:0,[CODAY TV] SINEMA INDONESIA X
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=MaMupachqzSkLzSlMaMhYJf=&
+#EXTINF:0,[CODAY TV] B4U MOVIES
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=omEbrzWcqaW2LKS2ot==&
+#EXTINF:0,[CODAY TV] XING KONG CHINA
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=n3MuqUuvLKD=&
+#EXTINF:0,[CODAY TV] LOTUS MACAU
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=rJWanTM6oaOhnN==&
+#EXTINF:0,[CODAY TV] DRAKOR
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=pJIhrTWyL3ybMt==&
+#EXTINF:0,[CODAY TV] FASHION TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=p25zqKMvLJqc&
+#EXTINF:0,[CODAY TV] K DRAMA
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=rP1kMJ56ot==&
+#EXTINF:0,[CODAY TV] RED BULL TV
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=MKWko2u5rJqc&
+#EXTINF:0,[CODAY TV] GO TO LUXE
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=qTWaLaybn3V=&
+#EXTINF:0,[CODAY TV] CHANNEL V CHINA
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=nKO1qzSh&
+#EXTINF:0,[CODAY TV] B4U MUSIC
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=omEbrzuzqaO2LKS2ot==&
+#EXTINF:0,[CODAY TV] MTV CHINA
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=rzqcpUI2LJ4=&
+#EXTINF:0,[CODAY TV] TV EDUKASI
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=M2ylpJu4ozM2&
+#EXTINF:0,[CODAY TV] TOONMAX
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=M2WvLKchnj==&
+#EXTINF:0,[CODAY TV] SPACETOON
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=MzAhpUWaLzWu&
+#EXTINF:0,[CODAY TV] EBS KIDS
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=pz9zrUMkMt==&
+#EXTINF:0,[CODAY TV] TVRI SPORT
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=M2yyqzMwLzIa&
+#EXTINF:0,[CODAY TV] SPORT ONE
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=MzAvMJqvLKV=&
+#EXTINF:0,[CODAY TV] AL KASS TWO
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=oay4ozMzM2cv&
+#EXTINF:0,[CODAY TV] DUBAI SPORTS 3
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/shinta_play.m3u8?shinta=CantiK&coday=pJuioaMzL2WyMmZ=&
+#EXTINF:0,//KIDS
+#EXTVLCOPT:network-caching=1000
+https://KIDS
+#EXTINF:0,Baby First (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=f8089affee222f1f593459e5e30bfa2cfe5d72636a71923e03ca4a8a6a4d927e&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:0,Horee (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=fc3142125c09425e2777b7872ac56157fe5d72636a71923e03ca4a8a6a4d927e&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:0,Duck TV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=72b6581acc839b106bc92e8b21d6313afe5d72636a71923e03ca4a8a6a4d927e&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:0,Boomerang (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=f91022004ce9aab1397c498ec1ee684bfe5d72636a71923e03ca4a8a6a4d927e&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:0,Cartoon Network (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=87dfc97a7654b4b7ad9f04767361eca9fe5d72636a71923e03ca4a8a6a4d927e&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:0,Dunia anak (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=352b1a859489df76c74fb7e0b41362effe5d72636a71923e03ca4a8a6a4d927e&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:0,Nick Junior (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=913c4858c66af34fc5575fcb46f3fecbfe5d72636a71923e03ca4a8a6a4d927e&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:0,Nickelodeon (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=f19b88e6cb8cb067565bb3880b2fb3e1fe5d72636a71923e03ca4a8a6a4d927e&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:0,Da Vinci Learning (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=aea862aa22a0f5b829d5795882889c08fe5d72636a71923e03ca4a8a6a4d927e&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:0,My Kids (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=5f97d16a4406b38ff5a49de81e7d9feafe5d72636a71923e03ca4a8a6a4d927e&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:0,Dreamworks (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&cdy=def4a8e6dcb356771aef3c3ac472f905fe5d72636a71923e03ca4a8a6a4d927e&coday=5ac28784e1d357b2cc3e84ba4101d82e
+#EXTINF:0,Metro TV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=bb3d05263896804e85dbca22be84bb765f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,CNBC Indonesia (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=253389aef791b158557bb3745a83cb3f5f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,CNBC Asia (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=fac16785a610534f19d53eef96060d915f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,SEA Today (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=7c6fe6b984d37b9bf13249db4729a4085f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,Aljazeera (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=3377a824bdebecff7f2557f30c6f8e685f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,IDX (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=7f9bec28bc8902d45d905788d7aa59a15f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,DW (English) (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=d033128fb23a952230deb35023425b1f5f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,France 24 (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=7968aaf5d3fde6d760116945502c34825f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,CODAY WAS HERE!
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/bahagia2019/sukmaprimajaya.com/master/CODAY%20WAS%20HERE!
+#EXTINF:0,TRT World (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=80f39dba487299859f6aebed2168243e5f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,CNN Indonesia (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=2eb25a92ec77afe876092cbdfa0268da5f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,CNN International (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=5d256d061251e8cf921e447d100a05995f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,Bloomberg (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=1b87225c734b0a934e9ce33ffc53c9ce5f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,CODAY WAS HERE!
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/bahagia2019/sukmaprimajaya.com/master/CODAY%20WAS%20HERE!
+#EXTINF:0,Euronews (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=894a32de977df155b3df799a4566dcb65f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,I-Konser (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=eeb2169ad39b56506369b66966cac6fd5f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,MTV Live (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=b7951f9081fefcff7b2f917eeb0c6aac5f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,Citra Dangdut (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=4ebdfcce17c99aa45b18e4b719d8c22d5f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,Prambors (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=e92c2da5f892a8f3247cf6fd63fd4b20&cdy=0990fc3dbc01e3b6026e8a1860bd3d315f4a46fb2f7c193790d6aa622099c744
+#EXTINF:0,[CODAY] SPORTS (01)
+#EXTVLCOPT:network-caching=1000
+https://akamai2-me.cdn.booyah.live/hls/113132/32832306.m3u8
+#EXTINF:0,[CODAY] SPORTS (02)
+#EXTVLCOPT:network-caching=1000
+https://akamai2-me.cdn.booyah.live/hls/113130/32824878.m3u8
+#EXTINF:0,beIN Sport 1 (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=684dd6fcc268a122d3d8867a18e32164&cdy=efd691fcfb139570442e93d2d3af3ce6e42aca9854a83a01abbe05bd8d8f6f1b
+#EXTINF:0,beIN Sport 2 (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=684dd6fcc268a122d3d8867a18e32164&cdy=8492a79c13ef3e4c30f1872d75fd8e81e42aca9854a83a01abbe05bd8d8f6f1b
+#EXTINF:0,NBA (USEETV)
+#EXTVLCOPT:network-caching=1000
+https://streaming.useetv.com/dass/15/nba/manifest_wuseetv.mpd?enc=-WvMwjpl7LDEChouuW2q2g&exp=1606665681&encp=JT9vwGi25y4xri83-q-0uQ&expp=1606676181&
+#EXTINF:0,Champion TV 1 (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=684dd6fcc268a122d3d8867a18e32164&cdy=08b00412925ca3fc9f19ad97fc52af0ee42aca9854a83a01abbe05bd8d8f6f1b
+#EXTINF:0,Champion TV 2 (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=684dd6fcc268a122d3d8867a18e32164&cdy=7f1e60a81b19143d67fa4a3d71c9e6c7e42aca9854a83a01abbe05bd8d8f6f1b
+#EXTINF:0,Fox Sport 1 (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=684dd6fcc268a122d3d8867a18e32164&cdy=4938af744b253b57bcf6f33d3dbf2f38e42aca9854a83a01abbe05bd8d8f6f1b
+#EXTINF:0,Fox Sport 2 (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=684dd6fcc268a122d3d8867a18e32164&cdy=9ca5d4a6246ad7c88e8663da026f1cbde42aca9854a83a01abbe05bd8d8f6f1b
+#EXTINF:0,Fox Sport 3 (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=684dd6fcc268a122d3d8867a18e32164&cdy=c372de9c52ad3489a20563ceca0ffb48e42aca9854a83a01abbe05bd8d8f6f1b
+#EXTINF:0,Golf (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=684dd6fcc268a122d3d8867a18e32164&cdy=85a8ee49afe0dc9d4ee65374857c127ee42aca9854a83a01abbe05bd8d8f6f1b
+#EXTINF:0,UseeSports (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=684dd6fcc268a122d3d8867a18e32164&cdy=4c19ad20295739012508db9f189d9da4e42aca9854a83a01abbe05bd8d8f6f1b
+#EXTINF:0,UseeSports2 (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=684dd6fcc268a122d3d8867a18e32164&cdy=411383497a7771cce71f615a99268a43e42aca9854a83a01abbe05bd8d8f6f1b
+#EXTINF:0,egg network (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=684dd6fcc268a122d3d8867a18e32164&cdy=0e9312087f58f367d001ec9bae8f325ae42aca9854a83a01abbe05bd8d8f6f1b
+#EXTINF:0,ZBioskop (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=629e4c3bdb8e1c0fa587324316d5f4710080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,Thrill (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=5d3a0a0bdc97ddcdced9c576f2c7dc010080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,TVN Movies (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=e634d2e5a52687128135405dcec2a5850080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,Bioskop Indonesia (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=1c7cd47eb6d44a98d7dfb408ac93346b0080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,Celestial Movie (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=ef2848a81b28e96ff815e4def1d96de40080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,Cinema World (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=009323e07bdb197e0315fe8bb52864d30080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,Flik (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=974a977ed8c481816eab7f4fdf6cfc2d0080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,Galaxy Premium (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=e91c148e4a522735af840d330b2c4c9e0080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,Galaxy (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=e03239b27e34a5f7f3bde739459dd5370080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,IMC (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=601dd4047a1b7be8c6d9896b80447d5c0080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,Nat Geo (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=f91c676cbee8fc9aa708334fcf26d9810080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,Nat Geo People (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=d41f2ddc7d689c014ccbe5a65d05578a0080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,Nat Geo Wild (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=757a717ee2ade661c665276734c83b160080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,Discovery Channel (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=d78acd9cad41bf3b3a0aaa3b4b106c4e0080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,Crime Investigation (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=11212100ad02e3b620718062ab1a287f0080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,CGTN Documentary (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=85a7060ea54b0971c1f54b355cf69ad20080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,Lingua (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=b019305ce0bb87d0e88a84e64e443ea1&cdy=2a39ee0928adb4aae9ac585e29bcaac20080ca9f8c9168e55d04d16af57b9528
+#EXTINF:0,Outdoor Channel (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=2f94a90ca788e63de2cd3b8d2bf558c048b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,AXN (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=625fa0bfdb706073072b1d52884d47c648b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,Citra Drama  (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=e2cd35de2c3b223c22655fabc7cada8f48b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,Dunia Lain (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=6fbb752d15ccfea071c0d563cf68e99748b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,Arirang (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=d0318fb05f6b0fe3ca9d9046bcf5abb048b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,Animax (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=5caf1a2c96ae8d2770427f4f1310434a48b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,TVN (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=441a1754ea7709febd9371cbe8e41d9348b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,KBS World (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=30e9bdab87a3f16cdf07ccab2d13d19348b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,Blue Ant (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=b70acb5723b8684e363f161abf00b91e48b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,Blue Ant Extreme (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=645cb7297100b5880b80ee1ab953d0f548b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,ABC Australia (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=aeb0e1531326e460950ee0ecb2cc7c7748b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,NHK World Premium (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=45d0b492efc9c421c3c37b7325f1226748b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,Chinese Drama (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=1d3695a412cba1dcf01226acc977040948b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,Lifetime (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=79f3a982fd2496a50c5ec8f88e9b608f48b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,History (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=3cd15f8f2940aff879df34df4e5c2cd148b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,Kix (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=e6ca88bac78bcf9de5362d50d6a2066248b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,Waku Waku Japan (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=1bfc88fd0d4c9a2ff74b80258c4f482d48b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,Warner (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=1660885848050e9ca9746ddd54e2de2548b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,ANIPlus (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=3cf4bcc786b25f46f6b0ab66732343ef48b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,CCTV4 (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=5113086ff6643f95fd81062ba01ba41e48b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,nhk world Japan (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=c8ab67613c052556e94209239b7b626c48b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,SGEM (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=b2227a1123247c5d687970792882b16948b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,SONE (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=5a0d527616c388728d7b93ed7ed0e3ac48b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,Kplus (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=8ef531aeddf673e37af1b9ddd218c22b48b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,TV5Monde (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=55e8a4e6141b1118b57b8d905d50c53b&cdy=676c1a5a5057f8890168130b1d10edb948b68aa0ddb165f03edf9122a51e3cfa
+#EXTINF:0,Indihome Shopping (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=8bc49eb58ea1ca802aeed91d397fe253219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,M Shop (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=2fc00ab9a529797c595bdef3511ceb44219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,Eat & Go (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=a429c413e708434257820f96d42afd01219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,Fashion One (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=563a019ffc98b63c0891a2dbce9aa8e8219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,FashionTV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=96c644d5b2c6070213e3b722e7966e8f219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,HGTV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=26e104754d63adb5a0f6ce026be7182b219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,Asian Food Network (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=ccdf76b5fe158066818731fccdf24919219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,Rodja TV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=9a81979e733cbf77cfef687b2be90dd2219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,UChannel (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=5c5b70c560c0374030d6ff234194d1df219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,Tawaf TV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=7678477875270450bcae2e27f3a2b5e5219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,MTATV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=6d77a1ba3124c56a169b8ec7843fc4dd219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,CODAY WAS HERE!
+#EXTVLCOPT:network-caching=1000
+https://raw.githubusercontent.com/bahagia2019/sukmaprimajaya.com/master/CODAY%20WAS%20HERE!
+#EXTINF:0,MUI TV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=4043b4df2200fe9fe357102c156038bd219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,AlQuran Kareem (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=8ceaddce1332cbd3052dd502fae47492219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,MQTV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=8b8c39258b8b81aca926a166729237bf219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,TV9 NU (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=322a4de01a6f5811a16efcae6e0bfb64219e8190027aa7a2789d34c8ff2427fe
+#EXTINF:0,Muhammadiyah TV (USEETV)
+#EXTVLCOPT:network-caching=1000
+http://riyancoday.xyz/coday_play.m3u8?shinta=RiyancodaY.xyz&coday=bc8f15412d651a484a275664ff639db5&cdy=0a5bae6923685f52437a8e4d4d76d4e9219e8190027aa7a2789d34c8ff2427fe
