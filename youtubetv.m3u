@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0fTIhO2m.jpg?1" group-title="YOUTUBE LIVE",BabyBus1
+#EXTVLCOPT:network-caching=1000
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606794705/ei/cWnFX9CKLMmcoQOys7ToAg/ip/202.80.212.88/id/Ge87Aej6YZI.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,hfr,playlist_duration,manifest_duration,maudio,vprv,go,itag,playlist_type/sig/AOq0QJ8wRQIgJxNNc99GDhLI4NTd2PLSjwcVORy6DB6jMYgAEui037wCIQCXxsDfR5nTmVrFgtsBP7xeVqkkLZMTiSQX7nCS60XnOw==/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0fTIhO2m.jpg?1" group-title="YOUTUBE LIVE",HBO SERVERKOZ
 https://seomuda.net/iptv/2020HBOID.m3u8
 #EXTINF:-1 tvg-logo="http://riyancoday.xyz/coday.jpg" group-title="YOUTUBE LIVE", LIVE DANGDUT KOPLO 24 JAM
