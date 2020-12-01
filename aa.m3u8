@@ -2,10 +2,12 @@
 #EXTINF:0,HBO SERVERKOZ
 #EXTVLCOPT:network-caching=1000
 https://seomuda.net/iptv/2020HBOID.m3u8
-#EXTINF:30,EgaTama - index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606793083/ei/G2PFX_P1BtzO4-EP5Ky5-AI/ip/202.80.212.88/id/mMOMBK8Y2Z8.1/source/yt_live_broadcast/requiressl/yes/tx/23933792/txs/23933789%2C23933790%2C23933791%2C23933792/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGpDiehnj2zAVRsUoCkEhoO5vToxmnueGQSfFPEpPT48CIQDPy2Gt_aQyLpaaBRMroNf2evUoF0DTDbEYGA0Pc7WBAQ%3D%3D/file/index.m3u8
-#EXTINF:30,NetInsight - index.m3u8
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1606793097/ei/KWPFX5yDOvPl4-EPtdejuAE/ip/202.80.212.88/id/MSQhwpYQbtQ.9/source/yt_live_broadcast/requiressl/yes/tx/23933792/txs/23933789%2C23933790%2C23933791%2C23933792/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWRnfWFRsMZh3ozHQ8nxt5eLf7YLzhSR1odLoF71w7kwCICu3A47ZsHOiS7uH77c5aE7wSTIsYG1NznCDqKCZBhcC/file/index.m3u8
+#EXTINF:30,ANTV.mpd
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTINF:30,NetTV.mpd
+https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd
+#EXTINF:30,Cbeebies
+https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_hls/Cbeebies-avc1_1000000=7-Cbeebies-mp4a_98800_eng=5.m3u8
 #EXTINF:0,SuleChannel
 #EXTVLCOPT:network-caching=1000
 https://www.youtube.com/embed/UxvkLMkuuXc?autoplay=1&list=PLUdFlgVL0JSxMGooVj0UcfqUXfIRYrVHk
