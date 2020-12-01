@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 , Metro TV
+https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+#EXTINF:-1 , Kompas TV
+https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/manifest.mpd
+#EXTINF:-1 , CHANNEL 4U
+https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
 #EXTINF:0,INDOSIAR
 https://fvtv.mywire.org/playlist/id/002.m3u8|Referer=https://www.vidio.com
 #EXTINF:0,GTV
