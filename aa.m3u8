@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0,INDOSIAR
+https://fvtv.mywire.org/playlist/id/002.m3u8|Referer=https://www.vidio.com
+#EXTINF:0,GTV
+https://fvtv.mywire.org/playlist/id/014.m3u8|Referer=https://www.vidio.com 
 #EXTINF:0,HBO SERVERKOZ
 #EXTVLCOPT:network-caching=1000
 https://seomuda.net/iptv/2020HBOID.m3u8
