@@ -2,7 +2,5 @@
 #EXT-X-VERSION:5
 #EXTVLCOPT:http-user-agent="burhan.tv/9.6 (Linux;Android 7.1.2) ExoPlayerLib/2.8.4"
 #EXT-X-MEDIA:TYPE=AUDIO,URI="https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-mp4a_64000=2.m3u8",GROUP-ID="audio-AACL-64",LANGUAGE="und",NAME="Undetermined",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
-#EXT-X-STREAM-INF:BANDWIDTH=420903,AVERAGE-BANDWIDTH=382639,CODECS="avc1.64000c,mp4a.40.2",RESOLUTION=320x180,FRAME-RATE=25.000,AUDIO="audio-AACL-64"
+#EXT-X-STREAM-INF:BANDWIDTH=420903,AVERAGE-BANDWIDTH=382639,CODECS="avc1.64000c,mp4a.40.2",RESOLUTION=480x270,FRAME-RATE=25.000,AUDIO="audio-AACL-64"
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_300000=5.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=770703,AVERAGE-BANDWIDTH=700639,CODECS="avc1.640015,mp4a.40.2",RESOLUTION=480x270,FRAME-RATE=25.000,AUDIO="audio-AACL-64"
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_300000=4.m3u8
