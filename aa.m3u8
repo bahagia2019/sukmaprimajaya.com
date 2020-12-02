@@ -6,9 +6,9 @@ https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(dc9040ad-a4
 #EXTINF:-1 , CHANNEL 4U
 https://cdn-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(81b456ab-b398-4d35-ae05-9be0a173ad71)/manifest.mpd
 #EXTINF:0,INDOSIAR
-https://fvtv.mywire.org/playlist/id/002.m3u8|Referer=https://www.vidio.com
+https://fvtv.mywire.org/playlist/id/002.m3u8
 #EXTINF:0,GTV
-https://fvtv.mywire.org/playlist/id/014.m3u8|Referer=https://www.vidio.com 
+https://fvtv.mywire.org/playlist/id/014.m3u8
 #EXTINF:0,HBO SERVERKOZ
 #EXTVLCOPT:network-caching=1000
 https://seomuda.net/iptv/2020HBOID.m3u8
