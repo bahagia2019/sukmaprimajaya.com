@@ -158,15 +158,15 @@ Mouse acceleration: `Checked (Turn off mouse acceleration in Windows)`
 <p>We tried to find ways to remove it and luckily, we found a way to do it and we&rsquo;ll share it here in this guide. This is by uninstalling those apps using Google&rsquo;s SDK Android Debug Bridge or adb.</p>
 <p><strong>Table of Content</strong></p>
 <ol>
-<li><a href="https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/#enable-developer-options">Enable Developer Options</a></li>
-<li><a href="https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/#enable-usb-debugging">Enable USB Debugging</a></li>
-<li><a href="https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/#install-basic-launcher">Install a Basic Launcher</a></li>
-<li><a href="https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/#nox-player-emulator">Step for NOX Player Emulator</a></li>
-<li><a href="https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/#ldplayer-emulator">Step for LD Player 3.0 Emulator</a></li>
+<li><a href="/#enable-developer-options">Enable Developer Options</a></li>
+<li><a href="/#enable-usb-debugging">Enable USB Debugging</a></li>
+<li><a href="#install-basic-launcher">Install a Basic Launcher</a></li>
+<li><a href="/#nox-player-emulator">Step for NOX Player Emulator</a></li>
+<li><a href="/#ldplayer-emulator">Step for LD Player 3.0 Emulator</a></li>
 <li><a href="https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/#ldplayer4">Step for LD Player 4.0 Emulator</a></li>
-<li><a href="https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/#final-touch">Final Touch</a></li>
-<li><a href="https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/#troubleshoot">Troubleshoot</a></li>
-<li><a href="https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/#appendix">Appendix</a></li>
+<li><a href="/#final-touch">Final Touch</a></li>
+<li><a href="/#troubleshoot">Troubleshoot</a></li>
+<li><a href="/#appendix">Appendix</a></li>
 </ol>
 <p>The steps are easy and readily available in your emulator packages, so our step-by-step process is a no brainer for everyone.</p>
 <h2 id="enable-developer-options">Enable Developer Options</h2>
@@ -198,9 +198,9 @@ Mouse acceleration: `Checked (Turn off mouse acceleration in Windows)`
 <figure class="wp-block-image size-large"><img class="wp-image-2205 jetpack-lazy-image jetpack-lazy-image--handled" src="https://i1.wp.com/codefaq.org/wp-content/uploads/2020/05/image-22.png?fit=1024%2C583&amp;ssl=1" sizes="(max-width: 1170px) 100vw, 1170px" srcset="https://i1.wp.com/codefaq.org/wp-content/uploads/2020/05/image-22.png?w=1640&amp;ssl=1 1640w, https://i1.wp.com/codefaq.org/wp-content/uploads/2020/05/image-22.png?resize=300%2C171&amp;ssl=1 300w, https://i1.wp.com/codefaq.org/wp-content/uploads/2020/05/image-22.png?resize=1024%2C583&amp;ssl=1 1024w, https://i1.wp.com/codefaq.org/wp-content/uploads/2020/05/image-22.png?resize=768%2C437&amp;ssl=1 768w, https://i1.wp.com/codefaq.org/wp-content/uploads/2020/05/image-22.png?resize=1536%2C875&amp;ssl=1 1536w, https://i1.wp.com/codefaq.org/wp-content/uploads/2020/05/image-22.png?resize=370%2C211&amp;ssl=1 370w, https://i1.wp.com/codefaq.org/wp-content/uploads/2020/05/image-22.png?resize=770%2C439&amp;ssl=1 770w" alt="" width="1640" height="934" data-pagespeed-url-hash="567116933" data-lazy-loaded="1" /></figure>
 <p>Since we are done now with the settings and the launcher, we can now proceed to access the ADB from our emulator. We separate the guide for each emulator, please pick the one you&rsquo;re using:</p>
 <ul>
-<li><a href="https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/#nox-player-emulator">Nox Player</a></li>
-<li><a href="https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/#ldplayer-emulator">LD Player 3.0</a></li>
-<li><a href="https://codefaq.org/emulator/how-to-remove-bloatware-on-nox-and-ldplayer-emulator/#ldplayer4">LD Player 4.0</a></li>
+<li><a href="/#nox-player-emulator">Nox Player</a></li>
+<li><a href="/#ldplayer-emulator">LD Player 3.0</a></li>
+<li><a href="/#ldplayer4">LD Player 4.0</a></li>
 </ul>
 <h2 id="nox-player-emulator">Step for Nox Player Emulator</h2>
 <p>Look for the installation directory of your Nox Player, you can find it by right clicking the&nbsp;<strong>Nox</strong>&nbsp;shortcut icon then&nbsp;<strong>Open file location</strong>.</p>
